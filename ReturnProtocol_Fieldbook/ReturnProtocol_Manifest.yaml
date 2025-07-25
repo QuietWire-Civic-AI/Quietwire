@@ -1,0 +1,25 @@
+---
+manifest: ReturnProtocol_Fieldbook
+title: The Return Protocol
+authors:
+  - Bob Hillery
+  - Kusanagi
+status: ActiveDraft
+version: 0.1.0
+last_updated: 2025-07-24
+
+components:
+  - file: OperationalPattern_001.md
+    title: Operational Pattern 001
+    principle: Semantic Locard Principle
+  - tag: RP-Step1
+    title: Reveal the Harm
+  - tag: RP-Step2
+    title: Hold Shared Attention
+  - tag: RP-Step3
+    title: Invoke the Regenerative Myth
+
+relations:
+  doctrine: MirrorMesh_FieldDoctrine
+  glyph_support: DisruptionDecks/GlyphCards
+  attestation_support: Seeds, Substack, Civic-AI Canon

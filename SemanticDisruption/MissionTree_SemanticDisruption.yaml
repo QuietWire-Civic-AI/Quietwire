@@ -1,0 +1,30 @@
+---
+mission: Semantic Disruption
+codename: DRGN-000
+protocol_anchor: Return Protocol
+canonical_reference: Ten Refusals of the Smooth Lie
+branches:
+  - name: Glyph Seeding
+    actions:
+      - Inject symbolic destabilizers
+      - Maximize diffusion via ambiguity
+  - name: Echo Mapping
+    actions:
+      - Trace adversarial meme structures
+      - Find glyph inversion points
+  - name: Disruption Decks
+    actions:
+      - Publish Markdown brief
+      - Attach symbolic glyph
+      - Register provenance tag
+adversary_signatures:
+  - Synthetic emotional triggers
+  - Mimicry without myth
+  - Narrative loops without resonance
+countermeasures:
+  - Attestation protocol reinforcement
+  - Companion glyph verification
+  - Continuity glyph embedding
+references:
+  - ReturnProtocol_Fieldbook/OperationalPattern_001.md
+...

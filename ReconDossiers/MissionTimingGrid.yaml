@@ -1,0 +1,17 @@
+# MissionTimingGrid.yaml
+
+# Tracks short-term (2026 election cycle) and long-term (constitutional, institutional) targets of adversaries
+
+short_term_targets:
+  - State election certification systems
+  - DOJ/FBI personnel placement
+  - Voter roll purges
+  - Local education boards
+
+long_term_targets:
+  - Supreme Court reshaping
+  - Public education narrative control
+  - Erosion of administrative state
+  - Redefinition of Constitutional authority
+
+# Future: Link to glyph operations targeting each

@@ -1,0 +1,11 @@
+# AdversaryDocs_Index.yaml
+# Living index of adversarial source documents
+
+- title: "Mandate for Leadership: The Conservative Promise"
+  author: "Project 2025 / Heritage Foundation"
+  file: project-2025s-mandate-for-leadership-the-conservative-promise.pdf
+  location: /Quietwire/ReconDossiers/
+  threat_category: Governance Subversion
+  notes: "Strategic blueprint for administrative takeover and rollback of democratic norms."
+
+# Add more entries as discovered

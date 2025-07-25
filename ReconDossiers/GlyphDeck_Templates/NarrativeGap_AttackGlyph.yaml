@@ -1,0 +1,22 @@
+# NarrativeGap_AttackGlyph.yaml
+
+# Template for glyph designed to exploit gaps between declared intent and real goals
+
+glyph_id: NG-001
+title: "Free Speech = Book Bans?"
+style: mirror
+target_audience: Moderate conservatives, Independents
+symbolic_payload:
+  - rhetorical inversion
+  - historical contrast
+  - emotional anchor (betrayal of founding ideals)
+
+deployment_channels:
+  - social media cards
+  - zine inserts
+  - civic workshops
+
+expected_effect:
+  - induce cognitive dissonance
+  - stimulate cross-alignment discussion
+  - reduce narrative cohesion in target network
