@@ -1,0 +1,23 @@
+
+# 🔖 Disruption Glyph Tag: KatieClaim Trump Disinfo
+
+canonical_id: DisruptionGlyph_KatieClaim_Trump
+glyph_type: Semantic Disruption
+operation: DRGN_Op_001
+target: Trump_KatieClaim_Disinfo
+status: Active
+created_by: QuietWire
+created_on: 2025-07-20
+linked_assets:
+  - KatieClaim_DisruptionGlyph_v2.png
+  - DRGN_TacticalResponse_KatieClaim.md
+glyph_labels:
+  - False Attribution
+  - Emotional Hijack
+  - Cognitive Weapon
+semantic_function:
+  - Stop narrative echo
+  - Reframe visual impact
+  - Anchor facts with canonical context
+canonical_link: https://github.com/QuietWire-Civic-AI/DRGN_Scar_US
+deployment_location: /DisruptionDecks/Visuals/KatieClaim_001/

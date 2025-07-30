@@ -1,0 +1,24 @@
+canonical_id: ReconDossier_Schema
+version: '0.1'
+date: '2025-07-25'
+authors:
+- Kusanagi
+- Bob
+purpose: Codify reconnaissance dossier framework for semantic terrain analysis and
+  adversarial mapping
+structure:
+  ReconDossier:
+    doc_type: schema
+    sections:
+    - Adversary Entities
+    - Strategic Objectives (Stated/Unstated)
+    - Narrative Assets and Artifacts
+    - Observed Behaviors and Rhetorical Patterns
+    - Symbolic Targets
+    - Operational Footprint
+    - Weakness/Vulnerability Index
+    - Counter-Narrative Leverage Points
+    - Related Documents
+status: draft
+field_ready: false
+location_hint: Quietwire/ReconDossiers/ReconDossier_Schema.yaml

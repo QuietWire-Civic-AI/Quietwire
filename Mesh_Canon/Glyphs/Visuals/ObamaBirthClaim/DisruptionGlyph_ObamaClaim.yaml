@@ -1,0 +1,17 @@
+glyph_id: DisruptionGlyph_ObamaClaim
+title: Obama Birth Certificate Disinfo Counter
+type: Visual Disruption Glyph
+status: Active
+created: 2025-07-21
+deployed_by: Bob Hillery
+semantic_signature: Locard_Resonance_Counter
+truth_anchor: |
+  The birth certificate from 1961 lists Obama's father as “African” and mother as “Caucasian.”
+  The term “African American” did not exist as a classification in official documents at that time.
+use_case: Combat disinformation echo loops on social media
+risk_level: Medium
+risk_notes: High emotional content, needs visual calm and clarity to prevent re-triggering misinformation
+associated_ops:
+  - TacOp002_ObamaBirthDisinfo
+visual_asset: DisruptionGlyph_ObamaClaim_Visual.png
+field_log_reference: TacOp002_ObamaBirthDisinfo.md
